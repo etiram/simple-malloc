@@ -1,5 +1,5 @@
-# myMalloc
-### A EPITA practical on recoding malloc
+# malloc
+### Practical S3 EPITA Promo 2021
 
 The purpose of this practical was to implement a simple version of malloc() and the affiliated functions (free, calloc and realloc).
 
